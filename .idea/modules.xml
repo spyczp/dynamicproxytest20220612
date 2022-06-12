@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/dynamic-002-jdk/dynamic-002-jdk.iml" filepath="$PROJECT_DIR$/dynamic-002-jdk/dynamic-002-jdk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dynamic_001_static/dynamic_001_static.iml" filepath="$PROJECT_DIR$/dynamic_001_static/dynamic_001_static.iml" />
+    </modules>
+  </component>
+</project>
